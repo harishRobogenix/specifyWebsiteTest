@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: |-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs who need a sleek, modern SaaS site. 
+      Azimuth is the perfect theme for developers, designers and entrepreneurs who need a sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: "/features"
@@ -60,7 +60,7 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus semper libero id sodales. 
+      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus semper libero id sodales.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
@@ -93,18 +93,20 @@ sections:
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
-  robots:
-    - index
-    - follow
   extra:
     - name: og:type
       value: website
+      keyName: property
     - name: og:title
       value: Stackbit Azimuth Theme
+      keyName: property
     - name: og:description
       value: The preview of the Azimuth theme
+      keyName: property
     - name: og:image
       value: images/hero.png
+      keyName: property
+      relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
@@ -113,5 +115,6 @@ seo:
       value: The preview of the Azimuth theme
     - name: twitter:image
       value: images/hero.png
+      relativeUrl: true
 layout: landing
 ---
