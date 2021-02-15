@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackbithq/stackbit-theme-azimuth"
+    "url": "git+https://github.com/stackbit-themes/azimuth-unibit"
   },
   "author": "Stackbit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stackbithq/stackbit-theme-azimuth/issues"
+    "url": "https://github.com/stackbit-themes/azimuth/issues-unibit"
   },
   "homepage": "https://docs.stackbit.com/unibit/",
   "dependencies": {

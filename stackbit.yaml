@@ -19,7 +19,7 @@ stackbit_banner:
   show_banner: true
   name: Azimuth
   create_url: 'https://app.stackbit.com/create?theme=azimuth'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
+  github_url: 'https://github.com/stackbit-themes/azimuth-unibit'
 pageData:
   - pagePath: "/"
     initialExpandedPaths:
